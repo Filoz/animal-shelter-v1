@@ -1,0 +1,679 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Animal Shelter\n"
+"POT-Creation-Date: 2016-08-12 09:44+0200\n"
+"PO-Revision-Date: 2016-08-12 09:45+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: animal-shelter.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/ansh_options_page.php:9
+msgctxt "title for the settings page"
+msgid "Animal Shelter manager"
+msgstr "Impostazioni di Animal Shelter"
+
+#: admin/ansh_options_page.php:54
+msgid "Do you wish to create default values for Age?"
+msgstr "Desideri creare dei valori di default per \"Età\"?"
+
+#: admin/ansh_options_page.php:59
+msgid "Select \"Yes\" if you want these defaults \"Puppy, Young, Old, Adult\""
+msgstr ""
+"Seleziona \"Sì\" se vuoi questi valori iniziali \"Cucciolo, Giovane, Adulto, "
+"Anziano\""
+
+#: includes/ansh-add-last-adopted-widget.php:14
+msgid "Last adopted animals"
+msgstr "Ultimi animali adottati"
+
+#: includes/ansh-add-last-adopted-widget.php:15
+msgid "Show the last archived and adopted animals. As many as you want."
+msgstr "Mostra gli ultimi animali archiviati e adottati. Quanti ne desideri"
+
+#: includes/ansh-add-last-adopted-widget.php:43
+msgid "New title"
+msgstr "Nuovo titolo"
+
+#: includes/ansh-add-last-adopted-widget.php:47
+msgid "Title:"
+msgstr "Titolo:"
+
+#: includes/ansh-add-roles.php:8
+msgctxt "name for the user role"
+msgid "Animal Author"
+msgstr "Autore (animali)"
+
+#: includes/ansh-add-roles.php:19
+msgctxt "name for the user role"
+msgid "Shelter Author"
+msgstr "Editore (animali)"
+
+#: includes/ansh-register-animals-custom-post.php:9
+msgctxt "post type general name"
+msgid "Animals"
+msgstr "Animali"
+
+#: includes/ansh-register-animals-custom-post.php:10
+msgctxt "post type singular name"
+msgid "Animal"
+msgstr "Animale"
+
+#: includes/ansh-register-animals-custom-post.php:11
+msgctxt "admin menu name"
+msgid "Shelter"
+msgstr "Rifugio"
+
+#: includes/ansh-register-animals-custom-post.php:12
+msgctxt "add new on admin bar"
+msgid "Animal"
+msgstr "Animale"
+
+#: includes/ansh-register-animals-custom-post.php:13
+msgctxt "add new (animal)"
+msgid "Add New"
+msgstr "Aggiungi Nuovo"
+
+#: includes/ansh-register-animals-custom-post.php:14
+msgid "Add New Animal"
+msgstr "Aggiungi Nuovo Animale"
+
+#: includes/ansh-register-animals-custom-post.php:15
+msgid "New Animal"
+msgstr "Nuovo Animale"
+
+#: includes/ansh-register-animals-custom-post.php:16
+msgid "Edit Animal"
+msgstr "Modifica Animale"
+
+#: includes/ansh-register-animals-custom-post.php:17
+msgid "View Animal"
+msgstr "Vedi Animale"
+
+#: includes/ansh-register-animals-custom-post.php:18
+msgid "All Animals"
+msgstr "Tutti gli Animali"
+
+#: includes/ansh-register-animals-custom-post.php:19
+msgid "Search Animals"
+msgstr "Cerca Animali"
+
+#: includes/ansh-register-animals-custom-post.php:20
+msgid "Parent Animal:"
+msgstr "Animale Genitore:"
+
+#: includes/ansh-register-animals-custom-post.php:21
+msgid "No animals found."
+msgstr "Nessun animale trovato."
+
+#: includes/ansh-register-animals-custom-post.php:22
+msgctxt "posts about animals"
+msgid "No posts found in Trash."
+msgstr "Nessun post di animale trovato nel Cestino."
+
+#: includes/ansh-register-animals-custom-post.php:49
+msgctxt "URL slug for the main page"
+msgid "animals"
+msgstr "animali"
+
+#: includes/ansh-register-animals-custom-post.php:85
+#: includes/ansh-register-animals-custom-post.php:86
+#: includes/ansh-register-animals-custom-post.php:99
+#: includes/ansh-taxonomy-metaboxes.php:26
+#: includes/ansh-taxonomy-metaboxes.php:35
+#: includes/ansh-taxonomy-metaboxes.php:125
+msgid "Species"
+msgstr "Specie"
+
+#: includes/ansh-register-animals-custom-post.php:87
+msgid "Search Species"
+msgstr "Cerca Specie"
+
+#: includes/ansh-register-animals-custom-post.php:88
+msgid "Popular Species"
+msgstr "Specie Popolari"
+
+#: includes/ansh-register-animals-custom-post.php:89
+msgid "All Species"
+msgstr "Tutte le Specie"
+
+#: includes/ansh-register-animals-custom-post.php:90
+msgid "Parent Species"
+msgstr "Specie Genitore"
+
+#: includes/ansh-register-animals-custom-post.php:91
+msgid "Parent Species:"
+msgstr "Specie Genitore:"
+
+#: includes/ansh-register-animals-custom-post.php:92
+msgid "Edit Species"
+msgstr "Modifica Specie"
+
+#: includes/ansh-register-animals-custom-post.php:93
+msgid "Update Species"
+msgstr "Aggiorna Specie"
+
+#: includes/ansh-register-animals-custom-post.php:94
+msgid "Add New Species"
+msgstr "Aggiungi Nuova Specie"
+
+#: includes/ansh-register-animals-custom-post.php:95
+msgid "New Species"
+msgstr "Nuova Specie"
+
+#: includes/ansh-register-animals-custom-post.php:96
+msgid "Separate species with commas"
+msgstr "Separa specie con le virgole"
+
+#: includes/ansh-register-animals-custom-post.php:97
+msgid "Add or remove species"
+msgstr "Aggiungi o rimuovi specie"
+
+#: includes/ansh-register-animals-custom-post.php:98
+msgid "Choose from the most used species"
+msgstr "Scegli fra le Specie più usate"
+
+#: includes/ansh-register-animals-custom-post.php:108
+msgid "species"
+msgstr "specie"
+
+#: includes/ansh-register-animals-custom-post.php:115
+#: includes/ansh-register-animals-custom-post.php:116
+#: includes/ansh-register-animals-custom-post.php:129
+#: includes/ansh-taxonomy-metaboxes.php:44
+#: includes/ansh-taxonomy-metaboxes.php:158
+msgid "Breed"
+msgstr "Razza"
+
+#: includes/ansh-register-animals-custom-post.php:117
+msgid "Search Breeds"
+msgstr "Cerca Razze"
+
+#: includes/ansh-register-animals-custom-post.php:118
+msgid "Popular Breeds"
+msgstr "Razze Popolari"
+
+#: includes/ansh-register-animals-custom-post.php:119
+msgid "All Breeds"
+msgstr "Tutte le Razze"
+
+#: includes/ansh-register-animals-custom-post.php:120
+msgid "Parent Breed"
+msgstr "Razza Genitor"
+
+#: includes/ansh-register-animals-custom-post.php:121
+msgid "Parent Breed:"
+msgstr "Razza Genitore:"
+
+#: includes/ansh-register-animals-custom-post.php:122
+msgid "Edit Breeds"
+msgstr "Modifica Razza"
+
+#: includes/ansh-register-animals-custom-post.php:123
+msgid "Update Breed"
+msgstr "Aggiorna Razza"
+
+#: includes/ansh-register-animals-custom-post.php:124
+msgid "Add New Breed"
+msgstr "Aggiungi Nuova Razza"
+
+#: includes/ansh-register-animals-custom-post.php:125
+msgid "New Breed"
+msgstr "Nuova Razza"
+
+#: includes/ansh-register-animals-custom-post.php:126
+msgid "Separate Breeds with commas"
+msgstr "Separa Razze con le virgole"
+
+#: includes/ansh-register-animals-custom-post.php:127
+msgid "Add or remove Breeds"
+msgstr "Aggiungi o rimuovi Razze"
+
+#: includes/ansh-register-animals-custom-post.php:128
+msgid "Choose from the most used Breeds"
+msgstr "Scegli fra le Razze più usate"
+
+#: includes/ansh-register-animals-custom-post.php:138
+msgid "breed"
+msgstr "razza"
+
+#: includes/ansh-register-animals-custom-post.php:145
+#: includes/ansh-register-animals-custom-post.php:146
+#: includes/ansh-register-animals-custom-post.php:159
+#: includes/ansh-taxonomy-metaboxes.php:54
+#: includes/ansh-taxonomy-metaboxes.php:190
+msgid "Sex"
+msgstr "Sesso"
+
+#: includes/ansh-register-animals-custom-post.php:147
+msgid "Search Sexes"
+msgstr "Cerca Sesso"
+
+#: includes/ansh-register-animals-custom-post.php:148
+msgid "Popular Sexes"
+msgstr "Sessi Popolari"
+
+#: includes/ansh-register-animals-custom-post.php:149
+msgid "All Sexes"
+msgstr "Tutti i Sessi"
+
+#: includes/ansh-register-animals-custom-post.php:150
+msgid "Parent Sex"
+msgstr "Sesso Genitore"
+
+#: includes/ansh-register-animals-custom-post.php:151
+msgid "Parent Sex:"
+msgstr "Sesso Genitore:"
+
+#: includes/ansh-register-animals-custom-post.php:152
+msgid "Edit Sex"
+msgstr "Modifica Sesso"
+
+#: includes/ansh-register-animals-custom-post.php:153
+msgid "Update Sex"
+msgstr "Aggiorna Sesso"
+
+#: includes/ansh-register-animals-custom-post.php:154
+msgid "Add New Sex"
+msgstr "Aggiungi Nuovo Sesso"
+
+#: includes/ansh-register-animals-custom-post.php:155
+msgid "New Sex"
+msgstr "Nuovo Sesso"
+
+#: includes/ansh-register-animals-custom-post.php:156
+msgid "Separate Sexes with commas"
+msgstr "Separa Sessi con le virgole"
+
+#: includes/ansh-register-animals-custom-post.php:157
+msgid "Add or remove Sexes"
+msgstr "Aggiungi o rimuovi Sessi"
+
+#: includes/ansh-register-animals-custom-post.php:158
+msgid "Choose from the most used Sexes"
+msgstr "Scegli fra i Sessi più usati"
+
+#: includes/ansh-register-animals-custom-post.php:169
+msgid "sex"
+msgstr "sesso"
+
+#: includes/ansh-register-animals-custom-post.php:176
+#: includes/ansh-register-animals-custom-post.php:177
+#: includes/ansh-register-animals-custom-post.php:190
+#: includes/ansh-taxonomy-metaboxes.php:63
+#: includes/ansh-taxonomy-metaboxes.php:223
+msgid "Age"
+msgstr "Età"
+
+#: includes/ansh-register-animals-custom-post.php:178
+msgid "Search Ages"
+msgstr "Cerca Età"
+
+#: includes/ansh-register-animals-custom-post.php:179
+msgid "Popular Ages"
+msgstr "Età popolari"
+
+#: includes/ansh-register-animals-custom-post.php:180
+msgid "All Ages"
+msgstr "Tutte le Età"
+
+#: includes/ansh-register-animals-custom-post.php:181
+msgid "Parent Age"
+msgstr "Età Genitore"
+
+#: includes/ansh-register-animals-custom-post.php:182
+msgid "Parent Age:"
+msgstr "Età Genitore:"
+
+#: includes/ansh-register-animals-custom-post.php:183
+msgid "Edit Age"
+msgstr "Modifica Età"
+
+#: includes/ansh-register-animals-custom-post.php:184
+msgid "Update Age"
+msgstr "Aggiorna Età"
+
+#: includes/ansh-register-animals-custom-post.php:185
+msgid "Add New Age"
+msgstr "Aggiungi Nuova Età"
+
+#: includes/ansh-register-animals-custom-post.php:186
+msgid "New Age"
+msgstr "Nuova Età"
+
+#: includes/ansh-register-animals-custom-post.php:187
+msgid "Separate Ages with commas"
+msgstr "Separa Età con le virgole"
+
+#: includes/ansh-register-animals-custom-post.php:188
+msgid "Add or remove Ages"
+msgstr "Aggiungi o rimuovi Età"
+
+#: includes/ansh-register-animals-custom-post.php:189
+msgid "Choose from the most used Ages"
+msgstr "Scegli fra le Età più usate"
+
+#: includes/ansh-register-animals-custom-post.php:199
+msgid "age"
+msgstr "età"
+
+#: includes/ansh-register-animals-custom-post.php:206
+#: includes/ansh-register-animals-custom-post.php:207
+#: includes/ansh-taxonomy-metaboxes.php:72
+msgid "Special Needs"
+msgstr "Attenzioni Speciali"
+
+#: includes/ansh-register-animals-custom-post.php:208
+msgid "Search Special Needs"
+msgstr "Cerca Attenzioni Speciali"
+
+#: includes/ansh-register-animals-custom-post.php:209
+msgid "Popular Special Needs"
+msgstr "Attenzioni Speciali Popolari"
+
+#: includes/ansh-register-animals-custom-post.php:210
+msgid "All Special Needs"
+msgstr "Tutte le Attenzioni Speciali"
+
+#: includes/ansh-register-animals-custom-post.php:211
+msgid "Parent Special Needs"
+msgstr "Attenzione Speciale Genitore"
+
+#: includes/ansh-register-animals-custom-post.php:212
+msgid "Parent Special Needs:"
+msgstr "Attenzione Speciale Genitore:"
+
+#: includes/ansh-register-animals-custom-post.php:213
+msgid "Edit Special Needs"
+msgstr "Modifica Attenzioni Speciali"
+
+#: includes/ansh-register-animals-custom-post.php:214
+msgid "Update Special Needs"
+msgstr "Aggiorna Attenzioni Speciali"
+
+#: includes/ansh-register-animals-custom-post.php:215
+msgid "Add New Special Needs"
+msgstr "Aggiungi Nuova Attenzione Speciale"
+
+#: includes/ansh-register-animals-custom-post.php:216
+msgid "New Special Needs"
+msgstr "Nuova Attenzione Speciale"
+
+#: includes/ansh-register-animals-custom-post.php:217
+msgid "Separate Special Needs options with commas"
+msgstr "Separa Attenzioni Speciali con le virgole"
+
+#: includes/ansh-register-animals-custom-post.php:218
+msgid "Add or remove Special Needs"
+msgstr "Aggiungi o rimuovi Attenzioni Speciali"
+
+#: includes/ansh-register-animals-custom-post.php:219
+msgid "Choose from the most used Special Needs"
+msgstr "Scegli fra le Attenzioni Speciali più usate"
+
+#: includes/ansh-register-animals-custom-post.php:220
+msgid "Special Need"
+msgstr "Attenzione Speciale"
+
+#: includes/ansh-register-animals-custom-post.php:229
+msgctxt "url slug"
+msgid "special-needs"
+msgstr "attenzioni-speciali"
+
+#: includes/ansh-register-animals-custom-post.php:236
+#: includes/ansh-register-animals-custom-post.php:237
+#: includes/ansh-register-animals-custom-post.php:250
+#: includes/ansh-taxonomy-metaboxes.php:82
+#: includes/ansh-taxonomy-metaboxes.php:290
+msgid "Rehoming Status"
+msgstr "Status Adozione"
+
+#: includes/ansh-register-animals-custom-post.php:238
+msgid "Search Rehoming Status"
+msgstr "Cerca Status Adozione"
+
+#: includes/ansh-register-animals-custom-post.php:239
+msgid "Popular Rehoming Status"
+msgstr "Status Adozione Popolari"
+
+#: includes/ansh-register-animals-custom-post.php:240
+msgid "All Rehoming Status"
+msgstr "Tutti gli Status Adozione"
+
+#: includes/ansh-register-animals-custom-post.php:241
+msgid "Parent Rehoming Status"
+msgstr "Status Adozione Genitore"
+
+#: includes/ansh-register-animals-custom-post.php:242
+msgid "Parent Rehoming Status:"
+msgstr "Status Adozione Genitore:"
+
+#: includes/ansh-register-animals-custom-post.php:243
+msgid "Edit Rehoming Status"
+msgstr "Modifica Status Adozione"
+
+#: includes/ansh-register-animals-custom-post.php:244
+msgid "Update Rehoming Status"
+msgstr "Aggiorna Status Adozione"
+
+#: includes/ansh-register-animals-custom-post.php:245
+msgid "Add New Rehoming Status"
+msgstr "Aggiungi Nuovo Status Adozione"
+
+#: includes/ansh-register-animals-custom-post.php:246
+msgid "New Rehoming Status"
+msgstr "Nuovo Status Adozione"
+
+#: includes/ansh-register-animals-custom-post.php:247
+msgid "Separate rehoming status with commas"
+msgstr "Separa status adozione con le virgole"
+
+#: includes/ansh-register-animals-custom-post.php:248
+msgid "Add or remove rehoming status"
+msgstr "Aggiungi o rimuovi status adozione"
+
+#: includes/ansh-register-animals-custom-post.php:249
+msgid "Choose from the most used rehoming status"
+msgstr "Scegli fra gli status adozione più usati"
+
+#: includes/ansh-register-animals-custom-post.php:266
+msgid "Owners"
+msgstr "Padroni"
+
+#: includes/ansh-register-animals-custom-post.php:267
+#: includes/ansh-register-animals-custom-post.php:280
+#: includes/ansh-taxonomy-metaboxes.php:91
+#: includes/ansh-taxonomy-metaboxes.php:321
+msgid "Owner"
+msgstr "Padrone"
+
+#: includes/ansh-register-animals-custom-post.php:268
+msgid "Search Owners"
+msgstr "Cerca Padroni"
+
+#: includes/ansh-register-animals-custom-post.php:269
+msgid "Popular Owners"
+msgstr "Padroni Popolari"
+
+#: includes/ansh-register-animals-custom-post.php:270
+msgid "All Owners"
+msgstr "Tutti i Padroni"
+
+#: includes/ansh-register-animals-custom-post.php:271
+msgid "Parent Owner"
+msgstr "Padrone Genitore"
+
+#: includes/ansh-register-animals-custom-post.php:272
+msgid "Parent Owner:"
+msgstr "Padrone Genitore:"
+
+#: includes/ansh-register-animals-custom-post.php:273
+msgid "Edit Owner"
+msgstr "Modifica Padrone"
+
+#: includes/ansh-register-animals-custom-post.php:274
+msgid "Update Owner"
+msgstr "Aggiorna Padrone"
+
+#: includes/ansh-register-animals-custom-post.php:275
+msgid "Add New Owner"
+msgstr "Aggiungi Nuovo Padrone"
+
+#: includes/ansh-register-animals-custom-post.php:276
+msgid "New Owner"
+msgstr "Nuovo Padrone"
+
+#: includes/ansh-register-animals-custom-post.php:277
+msgid "Separate owners with commas"
+msgstr "Separa padroni con le virgole"
+
+#: includes/ansh-register-animals-custom-post.php:278
+msgid "Add or remove owner"
+msgstr "Aggiungi o rimuovi padroni"
+
+#: includes/ansh-register-animals-custom-post.php:279
+msgid "Choose from the most used owners"
+msgstr "Scegli fra i padroni più usati"
+
+#: includes/ansh-register-animals-custom-post.php:289
+msgid "owner"
+msgstr "padrone"
+
+#: includes/ansh-register-animals-custom-post.php:304
+#: includes/ansh-register-animals-custom-post.php:305
+msgid "Female"
+msgstr "Femmina"
+
+#: includes/ansh-register-animals-custom-post.php:306
+#: includes/ansh-register-animals-custom-post.php:307
+msgid "Male"
+msgstr "Maschio"
+
+#: includes/ansh-register-animals-custom-post.php:312
+#: includes/ansh-register-animals-custom-post.php:313
+msgid "Adopted"
+msgstr "Adottato"
+
+#: includes/ansh-register-animals-custom-post.php:324
+#: includes/ansh-register-animals-custom-post.php:325
+msgid "Puppy"
+msgstr "Cucciolo"
+
+#: includes/ansh-register-animals-custom-post.php:326
+#: includes/ansh-register-animals-custom-post.php:327
+msgid "Young"
+msgstr "Giovane"
+
+#: includes/ansh-register-animals-custom-post.php:328
+#: includes/ansh-register-animals-custom-post.php:329
+msgid "Adult"
+msgstr "Adulto"
+
+#: includes/ansh-register-animals-custom-post.php:330
+#: includes/ansh-register-animals-custom-post.php:331
+msgid "Old"
+msgstr "Vecchio"
+
+#: includes/ansh-register-archived-status.php:9
+#: includes/ansh-register-archived-status.php:32
+#: includes/ansh-register-archived-status.php:37
+msgid "Archived"
+msgstr "Archiviato"
+
+#: includes/ansh-register-archived-status.php:14
+#, php-format
+msgid "Archived <span class=\"count\">(%s)</span>"
+msgid_plural "Archived <span class=\"count\">(%s)</span>"
+msgstr[0] "Archiviato <span class=\"count\">(%s)</span>"
+msgstr[1] "Archiviati <span class=\"count\">(%s)</span>"
+
+#: includes/ansh-register-archived-status.php:38
+msgctxt "when republishing a post previously set as archived"
+msgid "Republish"
+msgstr "Ripubblica"
+
+#: includes/ansh-register-archived-status.php:39
+msgctxt "the act of archive a post"
+msgid "Archive"
+msgstr "Archivia"
+
+#: includes/ansh-taxonomy-metaboxes.php:127
+msgid "select a species"
+msgstr "seleziona una specie"
+
+#: includes/ansh-taxonomy-metaboxes.php:160
+msgid "select a breed"
+msgstr "seleziona una razza"
+
+#: includes/ansh-taxonomy-metaboxes.php:225
+msgid "select an age"
+msgstr "seleziona un'età"
+
+#: includes/ansh-taxonomy-metaboxes.php:292
+msgid "select a status"
+msgstr "seleziona uno status adozione"
+
+#: includes/ansh-taxonomy-metaboxes.php:323
+msgid "select an owner"
+msgstr "seleziona un padrone"
+
+#: includes/ansh_shortcodes.php:14
+msgid "Currently waiting for adoption"
+msgstr "Ora in cerca di adozione"
+
+#: includes/ansh_shortcodes.php:62
+msgid "Sorry, no posts matched your criteria."
+msgstr "Mi spiace, nessun post di animale corrisponde ai tuoi criteri."
+
+#: includes/widget/ansh-last-adopted-widget-frontend.php:13
+msgid "adopted"
+msgstr "adottato"
+
+#: includes/widget/ansh-last-adopted-widget-frontend.php:53
+msgid ""
+"Wait to put this widget until some animal get adopted, or add past adopted "
+"animals to the archive."
+msgstr ""
+"Aspetta prima di mettere questo widget finché non hai animali adottati. "
+"Oppure aggiungi animali adottati in passato all'archivio."
+
+#. Plugin Name of the plugin/theme
+msgid "Animal Shelter Manager"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://github.com/lucagentile/wp-animal-shelter-manager"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Manage your animals and pets in an easy way. You'll get an \"Animals\" menu "
+"under the Articles one where you can add animals and taxonomies like "
+"Species, Breed, Sex, Age, Special Needs."
+msgstr ""
+"Gestisci i tuoi animali facilmente. Avrai un menu \"Animali\" sotto il menu "
+"\"Articoli\" dove potrai aggiungerli con tassonomie come Specie, Razza, "
+"Sesso, Età, Bisogni Speciali."
+
+#. Author of the plugin/theme
+msgid "Luca Gentile"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://lucagentile.eu"
+msgstr ""
+
+#~ msgid "Manage your animals and pets in an easy way."
+#~ msgstr "Gestisci facilmente i tuoi animali."

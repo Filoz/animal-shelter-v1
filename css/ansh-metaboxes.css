@@ -1,0 +1,7 @@
+.inline {
+    display:inline;
+}
+
+.postbox-container p.inline {
+    margin-left:13px;
+}

@@ -1,0 +1,32 @@
+.ansh-widget {
+    text-align:center;
+}
+.ansh-widget a {
+    height:auto;
+}
+
+.widget_ansh_adopted_widget .hidden {
+    display:none;
+    overflow:hidden;
+}
+
+.widget_ansh_adopted_widget .greyed {
+    color:grey;
+}
+
+.widget_ansh_adopted_widget .dashicons {
+    font-size:40px;
+    height:40px;
+    width:50%;
+}
+
+
+.ansh-adopted-animal {
+    box-sizing:border-box;
+    text-align:center;
+}
+
+.ansh-adopted-animal h4 {
+    margin:16px 0;
+}
+
