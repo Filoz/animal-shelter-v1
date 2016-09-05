@@ -86,11 +86,10 @@ if ( is_admin() ) {
 /**
  * Load the plugin text domain for translation.
  */
-function load_plugin_textdomain() {
-
+function ansh_load_plugin_textdomain() {
     load_plugin_textdomain(
         'animal-shelter',
-        false,
-        $this->dir . 'languages/'
-    );
+        FALSE,
+        basename( dirname( __FILE__ ) ) . '/languages/' );
 }
+add_action( 'plugins_loaded', 'ansh_load_plugin_textdomain' );
