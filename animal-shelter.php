@@ -79,9 +79,8 @@ require_once ($dir.'includes/ansh_shortcodes.php');
  * Admin menu under Settings
  */
 if ( is_admin() ) {
-    require_once( $dir.'/admin/ansh_options_page.php' );
+    require_once($dir.'admin/ansh_options_page.php');
 }
-
 
 /**
  * Load the plugin text domain for translation.
